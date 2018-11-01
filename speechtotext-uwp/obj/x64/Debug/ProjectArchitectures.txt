@@ -1,0 +1,1 @@
+C:\Users\Supaketu\Downloads\cognitive-services-speech-sdk-master (1)\cognitive-services-speech-sdk-master\samples\csharp\uwp\speechtotext-uwp\speechtotext-uwp\speechtotext-uwp.csproj;x64
